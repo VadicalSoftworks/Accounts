@@ -1,0 +1,16 @@
+{
+  "socialAccounts": {
+    "discord": [
+      {
+        "label": "main",
+        "username": "vadical.dev",
+        "userId": "123456789012345678"
+      },
+      {
+        "label": "alt",
+        "username": "penguinn.win",
+        "userId": "987654321098765432"
+      }
+    ]
+  }
+}
